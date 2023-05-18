@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Webpack basic installation",
   "scripts": {
+    "dev": "webpack --mode development",
     "build": "webpack"
   },
   "devDependencies": {
@@ -13,4 +14,3 @@
     "jquery": "^3.6.0"
   }
 }
-
